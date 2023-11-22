@@ -1,5 +1,5 @@
 # Quick-Quiz-Web-Project
-Website that I developed(Hosted) using Html5,CSS,JS
+Website that I developed(Hosted link is Provided in Demo Section) using Html5,CSS,JS
 # Demo
 You can see demo of Project at (https://hardier-riddles.000webhostapp.com/login.html)
 # credentials
