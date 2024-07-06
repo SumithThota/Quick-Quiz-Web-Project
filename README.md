@@ -4,14 +4,14 @@ Website that I developed(Hosted link is Provided in Demo Section) using Html5,CS
 You can see demo of Project at (https://hardier-riddles.000webhostapp.com/login.html)
 # credentials
   • For Student login:<br>
-    Username: student<br>
-    Password: student<br>
+        Username: student<br>
+        Password: student<br>
   • For Admin login:<br>
-    Username: admin<br> 
-    Password: admin<br>
+        Username: admin<br> 
+        Password: admin<br>
   • For Teacher login<br>
-    Username: teacher<br>
-    Password: teacher<br>
+        Username: teacher<br>
+        Password: teacher<br>
 # Abstract
 This report describes an online quiz, named Quick Quiz for students. Any university, colleges and schools with computerized education system can adopt this system.<br> Teacher can manage quizzes using the Class Base Quiz System. The distinct feature in our system is that the teacher can generate quiz on real time and the result will be show after ending the quiz. Students will be<br> provided limited time slots to solve the quiz after that quiz will be finished automatically. Results of the quizzes will be shared with the students on their accounts.This system has a question bank. <br>Question bank is used to keep the record of previous question papers.<br>
 
